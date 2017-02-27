@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/eliotlandrum
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://eliotlandrum.com
+  * I am eliotlandrum (https://keybase.io/eliotlandrum) on keybase.
+  * I have a public key with fingerprint C392 2805 5111 A833 AC05  21C0 FD5B 509A 602A E6E5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d3260f550027edf05aa5beb19ba54955590fef22b6963be5eb58450c17b01b760a",
+            "fingerprint": "c39228055111a833ac0521c0fd5b509a602ae6e5",
+            "host": "keybase.io",
+            "key_id": "fd5b509a602ae6e5",
+            "kid": "0101d3260f550027edf05aa5beb19ba54955590fef22b6963be5eb58450c17b01b760a",
+            "uid": "1e513f384299680cec312f85d9453819",
+            "username": "eliotlandrum"
+        },
+        "service": {
+            "hostname": "eliotlandrum.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1488233922,
+    "expire_in": 157680000,
+    "prev": "778efdb03965f1bfda3464cc725e3f495a6198e5e6cd396c0e3515c2425030a8",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.64
+Comment: https://keybase.io/crypto
+
+yMInAnicrZJbSBRRGMd3a5NcSbtYGpHBRERkdi5zZmeU6CoGFkVIFEXbmZkz6+A6
+s86MayIWQdBFKApCi1AyrCgigkq6QCVBlEYXjOi6D7XZg2L5YplhZ6TefOy8HM75
+/t/v/L8/5+G0yYFwcGDk8BjrRTuC3Q/aagPbrnd0NQiqrdcLxQ1CFRvfWFxnrhet
+MnWhWAAQQB0jCRiEAIAiTDcAoZSoTIWKSomoEEIUYDADIVVSJKwywlQiiwRoMKIC
+qEYkQIVCwTCtGHMSjml5HKthBSEZEAIhpDLGVAMEQQ0YOlEJUKgEEGUSI7yx0nb9
+Dm5OpS4rMm1+xw/RcXsT6P+z79pxHGQEYgPLIlIUSQYa0zBEhkx0RSRYhoovdJlj
+0WrG1Sxu2l6cWrpTWy00Fgq8kjQ15ofrTzOBqkizqzkj4dierdlxXq30vESx3+zV
+J3x1HVOjfzlR1bR0HidvSDLHNW1LKIZcqXmmD4aiLCPsB1wosD0J02FR01eQCHfO
+l/8MS3JkJCIzQ1cBViRiQNXQKRYlUdMiiDBs8ISoBBWZ5yJpOtdogGECiYZERAAG
+VBb8yWosm7MV7pPGONM1Yxb1ah0mNHbd3xkKBMOBjCmT/H8WCGdO//f7VuCpgY45
+lx+55WW3Qt2Ly49cmNl3/ERJf9aR/Lyh9s7Q776iwRyr9ViwtWJwlXS+pCejNHVu
+xtPTy9zR05dwY/ru0Yh98Xzb3p35j/c3uc9Ds+/sLru3/WR8a8HvV61XUzmZD9Lv
+P+c6y7JLTg2vRPRD9H1V17e5N+pz6MKxBd+/yh2/hoZvtmxu/3l2SXLfms7Uhsqe
+L/NJrL67IO+n8ya+aGZp3qfWTWsOrp1yWBneEs7uOTMPDIqVi+0dV9ZdS/Yvf7t2
+RuaithULbr9IfzwT/dRc96Q0vfrdqPyiqf3Q+rpg9q4fF5peNo/cG/o+Z9/S1y1Z
+JfN7n+fO2pQK6wcqVhbUDGx8Vtb3BzHyRJc=
+=CIbD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eliotlandrum
+
+==================================================================
+
