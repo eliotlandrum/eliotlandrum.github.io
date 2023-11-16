@@ -149,10 +149,6 @@ input, select, textarea {
 			font-weight: 900;
 		}
 
-		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
-		}
-
 /* Wrapper */
 
 	@-moz-keyframes wrapper {
@@ -565,7 +561,7 @@ input, select, textarea {
 			/*margin: 0.75em 0 0.25em 0;*/
 			margin: auto;
 			text-align: center;
-			width: 520px;
+			width: 60%;
 			position: relative;
 			/*opacity: 0.75;*/
 		}
