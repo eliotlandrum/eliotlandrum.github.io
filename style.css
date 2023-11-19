@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+
+body { 
+    background: url("bg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15pt;
+    font-weight: 300 !important;
+    letter-spacing: -0.025em;
+    line-height: 1.75em;
+}
+
+#content {
+    min-height: calc(100vh - 100px);
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 40px;
+}
+
+#content-text {
+    background: rgba(0,0,0,0.5);
+    padding: 10px;
+}
+
+#content-text p {
+    font-weight: 400;
+}
+
+#footer {
+    text-align: center;
+    height: 70px;
+    font-size: 0.75em;
+}
+
+a {
+    -moz-transition: border-color 0.2s ease-in-out;
+    -webkit-transition: border-color 0.2s ease-in-out;
+    -ms-transition: border-color 0.2s ease-in-out;
+    transition: border-color 0.2s ease-in-out;
+    border-bottom: dotted 1px;
+    color: inherit;
+    outline: 0;
+    text-decoration: none;
+}
+
+a:hover {
+    border-color: transparent;
+}
+
+#content nav {
+    margin: 1.5em 0 0 0;
+}
+
+#content nav li {
+    display: inline-block;
+    height: 5.35em;
+    line-height: 5.885em;
+    position: relative;
+    top: 0;
+    width: 5.35em;
+}
+
+#content nav a {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-touch-callout: none;
+    border: 0;
+    display: inline-block;
+}
+
+#content nav a:before {
+    border-radius: 100%;
+    border: solid 1px #fff;
+    display: block;
+    font-size: 1.75em;
+    height: 2.5em;
+    line-height: 2.5em;
+    position: relative;
+    text-align: center;
+    top: 0;
+    width: 2.5em;
+}
+
+#content nav a:hover {
+    font-size: 1.1em;
+}
+
+#content nav a:hover:before {
+    background-color: rgba(255, 255, 255, 0.175);
+    color: #fff;
+}
+
+#content nav a:active {
+    font-size: 0.95em;
+    background: none;
+}
+
+#content nav a:active:before {
+    background-color: rgba(255, 255, 255, 0.35);
+    color: #fff;
+}
+
+#content nav a span {
+    display: none;
+}
