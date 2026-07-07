@@ -127,3 +127,14 @@ a:hover {
 #content nav a span {
     display: none;
 }
+
+@media (max-width: 768px) {
+    body {
+        font-size: 18pt;
+    }
+    
+    #content-text {
+        padding: 15px;
+        max-width: 90%;
+    }
+}
